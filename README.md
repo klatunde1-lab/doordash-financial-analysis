@@ -1,4 +1,4 @@
-markdown# DoorDash Financial Analysis & Forecast Model
+DoorDash Financial Analysis & Forecast Model
 
 A SQL-driven financial analysis tool analyzing DoorDash and marketplace comps (Uber, Instacart) using public SEC EDGAR filings, with scenario-based Excel forecast modeling.
 
