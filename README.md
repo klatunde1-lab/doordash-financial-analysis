@@ -84,7 +84,7 @@ Open `DoorDash_Financial_Analysis.xlsx`:
 ## Data Source
 
 All financial data sourced from **SEC EDGAR Company Facts API**:
-- API: https://data.sec.gov/api/xbrl/companyfacts/
+- API: (https://www.sec.gov/search-filings/edgar-application-programming-interfaces)
 - Companies: DoorDash (CIK 0001792789), Uber (CIK 0001543151), Instacart (CIK 0001579091)
 - Filings: Form 10-K (annual reports), 2023–2025
 - Data retrieved: June 2026
