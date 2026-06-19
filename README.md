@@ -116,7 +116,7 @@ See Methodology sheet in Excel for full data source citations.
 
 **Karsten Latunde**  
 UC Berkeley, Economics Major | Class of 2026  
-[LinkedIn]((https://www.linkedin.com/in/karstenlatunde/))
+[LinkedIn](https://www.linkedin.com/in/karstenlatunde/)
 
 ---
 
